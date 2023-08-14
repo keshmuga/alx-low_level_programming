@@ -4,7 +4,7 @@
 
 /**
  * main - check the code
- *
+ *skip this
  * Return: Always 0.
  */
 int main(int ac, char **av)
